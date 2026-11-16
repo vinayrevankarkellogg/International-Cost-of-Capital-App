@@ -1,0 +1,37 @@
+Country,ISO,Tax_Rate,Currency,Currency_Symbol,Notes
+United States,USA,25.8,USD,$,Federal 21% + State weighted avg (OECD 2024/2026)
+Australia,AUS,30.0,AUD,A$,Statutory corporate rate
+Austria,AUT,23.0,EUR,€,Reduced from 24%
+Belgium,BEL,25.0,EUR,€,Standard statutory rate
+Brazil,BRA,34.0,BRL,R$,IRPJ + CSLL combined
+Canada,CAN,26.5,CAD,C$,Federal 15% + provincial weighted average
+Chile,CHL,27.0,CLP,CLP$,Semi-integrated system
+China,CHN,25.0,CNY,¥,Standard statutory corporate rate
+Colombia,COL,35.0,COP,COL$,Standard statutory rate
+Czech Republic,CZE,21.0,CZK,Kč,Standard statutory rate
+Denmark,DNK,22.0,DKK,kr,Standard statutory rate
+Finland,FIN,20.0,EUR,€,Standard statutory rate
+France,FRA,25.0,EUR,€,Standard statutory corporate rate
+Germany,DEU,29.9,EUR,€,Corporate tax + solidarity + average trade tax
+Greece,GRC,22.0,EUR,€,Standard statutory rate
+Hungary,HUN,9.0,HUF,Ft,Standard statutory rate (lowest in OECD)
+India,IND,25.17,INR,₹,22% base + 10% surcharge + 4% cess
+Indonesia,IDN,22.0,IDR,Rp,Standard statutory rate
+Ireland,IRL,12.5,EUR,€,Standard trading rate (15% Pillar 2 for large MNEs)
+Israel,ISR,23.0,ILS,₪,Standard statutory rate
+Italy,ITA,27.8,EUR,€,IRES 24% + regional IRAP ~3.8%
+Japan,JPN,29.74,JPY,¥,National corporate + local inhabitant/enterprise taxes
+Mexico,MEX,30.0,MXN,Mex$,Standard statutory rate
+Netherlands,NLD,25.8,EUR,€,Standard statutory rate (top bracket)
+New Zealand,NZL,28.0,NZD,NZ$,Standard statutory rate
+Norway,NOR,22.0,NOK,kr,General corporate rate
+Poland,POL,19.0,PLN,zł,Standard statutory rate
+Portugal,PRT,21.0,EUR,€,State rate (surcharges apply to high profits)
+Singapore,SGP,17.0,SGD,S$,Standard headline rate
+South Africa,ZAF,27.0,ZAR,R,Standard corporate rate
+South Korea,KOR,24.0,KRW,₩,Top bracket statutory corporate rate
+Spain,ESP,25.0,EUR,€,Standard statutory rate
+Sweden,SWE,20.6,SEK,kr,Standard statutory rate
+Switzerland,CHE,19.7,CHF,CHF,Weighted average federal + cantonal + communal
+Turkey,TUR,25.0,TRY,₺,Standard corporate rate
+United Kingdom,GBR,25.0,GBP,£,Main rate for profits > £250k
